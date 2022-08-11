@@ -1,0 +1,11 @@
+C:\Users\Андрей Берник\OneDrive\Рабочий стол\TideRelease\Tideshell.exe
+C:\Users\Андрей Берник\OneDrive\Рабочий стол\TideRelease\Tideshell.pdb
+C:\Users\Андрей Берник\OneDrive\Рабочий стол\TideRelease\Tideshell.xml
+D:\Project\Tideshell\Tideshell\obj\x86\Debug\Tideshell.Resources.resources
+D:\Project\Tideshell\Tideshell\obj\x86\Debug\Tideshell.Control.resources
+D:\Project\Tideshell\Tideshell\obj\x86\Debug\Tideshell.Tide.resources
+D:\Project\Tideshell\Tideshell\obj\x86\Debug\Tideshell.vbproj.GenerateResource.Cache
+D:\Project\Tideshell\Tideshell\obj\x86\Debug\Tideshell.exe
+D:\Project\Tideshell\Tideshell\obj\x86\Debug\Tideshell.xml
+D:\Project\Tideshell\Tideshell\obj\x86\Debug\Tideshell.pdb
+D:\Project\Tideshell\Tideshell\obj\x86\Debug\Tideshell.vbprojResolveAssemblyReference.cache

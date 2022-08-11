@@ -1,0 +1,12 @@
+C:\Users\cackemc\Desktop\BiteShell\Tideshell\bin\x86\Debug\BiteShell.exe
+C:\Users\cackemc\Desktop\BiteShell\Tideshell\bin\x86\Debug\BiteShell.pdb
+C:\Users\cackemc\Desktop\BiteShell\Tideshell\bin\x86\Debug\BiteShell.xml
+C:\Users\cackemc\Desktop\BiteShell\Tideshell\obj\x86\Debug\BiteShell.vbproj.AssemblyReference.cache
+C:\Users\cackemc\Desktop\BiteShell\Tideshell\obj\x86\Debug\Tideshell.Resources.resources
+C:\Users\cackemc\Desktop\BiteShell\Tideshell\obj\x86\Debug\Tideshell.Control.resources
+C:\Users\cackemc\Desktop\BiteShell\Tideshell\obj\x86\Debug\Tideshell.Bite.resources
+C:\Users\cackemc\Desktop\BiteShell\Tideshell\obj\x86\Debug\BiteShell.vbproj.GenerateResource.cache
+C:\Users\cackemc\Desktop\BiteShell\Tideshell\obj\x86\Debug\BiteShell.vbproj.CoreCompileInputs.cache
+C:\Users\cackemc\Desktop\BiteShell\Tideshell\obj\x86\Debug\BiteShell.exe
+C:\Users\cackemc\Desktop\BiteShell\Tideshell\obj\x86\Debug\BiteShell.xml
+C:\Users\cackemc\Desktop\BiteShell\Tideshell\obj\x86\Debug\BiteShell.pdb

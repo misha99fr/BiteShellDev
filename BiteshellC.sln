@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BiteShell", "BiteShell\BiteShell.vbproj", "{EA2A3BEF-46DE-4F92-8A96-F44F4E011CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2A3BEF-46DE-4F92-8A96-F44F4E011CAE}.Debug|x86.ActiveCfg = Debug|x86
+		{EA2A3BEF-46DE-4F92-8A96-F44F4E011CAE}.Debug|x86.Build.0 = Debug|x86
+		{EA2A3BEF-46DE-4F92-8A96-F44F4E011CAE}.Release|x86.ActiveCfg = Release|x86
+		{EA2A3BEF-46DE-4F92-8A96-F44F4E011CAE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F90651D2-6317-4DD2-A484-435E12404DE1}
+	EndGlobalSection
+EndGlobal
